@@ -1,5 +1,13 @@
 ## VIM Katas
 
+I've been using vim for a while now, and always wanted to improve my vim skills.  I came across the book `Practical Vim` and have started it but never got to finishing it, always getting distracted by something else.  Then, I thought about the idea of creating Vim Katas to practice so that I can have exercises to practice that would hopefully decrease the inertia to practice vim.  I came across this repo and hence, did not need to create these exercises myself.  However, I have started using lazyvim, so some of the solutions are not entirely the same.
+
+As I go through the exercises and read the book, I will update the solutions to be more relevant to Lazyvim and/or whatever plugins that I have been using.
+
+- Zupey
+
+Below is the README by the original author:
+
 Daily exercises from the book [Practical Vim](https://pragprog.com/book/dnvim/practical-vim).
 
 It was about 5 years ago when I watched Jim Weirich solving the [Roman Numeral kata](https://vimeo.com/33841375) at an SCNA conference in Chicago. I was amazed by how he mastered his editor of choice: Emacs. His fingers were flying on the keyboard, and he wrangled the code I have rarely seen anybody before that.
