@@ -12,8 +12,8 @@ Replace the first and third occurrence of "content" with "copy" in this text:
 
 Steps:
 
-1. Find the word content by `/content`
-2. Replace the word by `cw copy`
+1. Find the word content by `s content`
+2. Replace the word by `ciw copy`
 3. Go to the next one `n`
 4. Go to the last one `n`
 5. Repeat command `.`
